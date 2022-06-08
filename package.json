@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "start":"node server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "axios": "^0.27.2",
@@ -17,7 +17,8 @@
     "vue-axios": "^3.4.1",
     "vue-router": "^3.5.1",
     "vuelidate": "^0.7.7",
-    "vuetify": "^2.6.0"
+    "vuetify": "^2.6.0",
+    "node":"16.15.0"
   },
   "devDependencies": {
     "@mdi/font": "^6.7.96",
